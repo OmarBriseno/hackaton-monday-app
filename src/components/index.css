@@ -1,0 +1,30 @@
+.Header-Container {
+    display: flex;
+    flex-direction: inherit;
+    align-items: center;
+    background-color:  #FFFFFF; /* #CACFD2; */
+    padding-left: 10px;
+ /*    justify-content: center; */
+}
+
+.Header-Container h4{
+    font-weight: bold;
+}
+
+.Footer-Container{
+    display: flex;
+    background-color:  #FFFFFF; /* #CACFD2;  */
+   /*  bottom: 0; */
+    position: absolute;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.TextField-Container{
+    width : 95% !important;
+    margin-left: 10px !important;
+    border-radius: 25px !important;
+    background-color: white !important;
+
+}
